@@ -1,1 +1,1 @@
-STA Spayer Python Script.
+Aldera and Spayer Python Scripts.
